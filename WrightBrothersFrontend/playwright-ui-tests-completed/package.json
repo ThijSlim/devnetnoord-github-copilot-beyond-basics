@@ -1,0 +1,14 @@
+{
+  "name": "playwright-ui-tests",
+  "version": "1.0.0",
+  "description": "Playwright UI Tests",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.15.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
